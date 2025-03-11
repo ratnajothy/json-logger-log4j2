@@ -1,4 +1,4 @@
-# json-logger-log4j2
+# logrhythm-logger-log4j2
 
 1. Place the JAR in the '**dropins**' directory 
 2. Create the **logrhythm** folder for wso2carbon.log
